@@ -6,6 +6,13 @@ Their primary concern lies in the growing frequency and intensity of extreme wea
 <h1>Objectives</h1>
 ClimateWins aims to harness machine learning tools to develop a model capable of predicting weather patterns, including extreme events, across mainland Europe. By leveraging cutting-edge technology, this model has the potential to provide accurate weather forecasts globally, helping communities prepare for and mitigate the impact of severe weather conditions.
 
+<b>Machine Learning Models Explored</b>
+K-Nearest Neighbour Model
+Decision Tree Model  
+Artificial Neural Network (ANN) 
+
+
+
 <h1>Hypothesis</h1>
 • Hypothesis 1: Can Machine Learning Improve Prediction Accuracy for Extreme Weather Events?
 
