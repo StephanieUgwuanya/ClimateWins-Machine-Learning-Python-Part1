@@ -8,8 +8,13 @@ ClimateWins aims to harness machine learning tools to develop a model capable of
 
 <h1>Hypothesis</h1>
 • Hypothesis 1: Can Machine Learning Improve Prediction Accuracy for Extreme Weather Events?
+
+
 • Hypothesis 2: Which machine learning models are most effective for forecasting extreme weather events?
+
+
 • Hypothesis 3: Can Machine Learning Improve Climate Risk Assessment for Agriculture and Other Sectors?
+
 
 <h1>Data & Tools</h1>
 
